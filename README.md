@@ -14,6 +14,6 @@ It's a very single website.
 This website did not cover all the netflix features.
 It has very basic level netflix features.
 
-Website URL: https://netflix-clone-fbc45.web.app/. 
+Website URL: https://netflix-clone-fbc45.web.app/.  
 Website Developer: Junaid Jwolt.  
 Credit: Clever Programmer Team.  
