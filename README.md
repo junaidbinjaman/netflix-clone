@@ -10,7 +10,7 @@ So many many thanks to clever programmer team for their amazing work.
 This website is on One of the most popular js framework <<ReactJs>>
 For the frontend I ma using here react js and for the backand and hosting, I am useing firebase hsoting.
 
-It's a very single website.
+It's a very single website.  
 This website did not cover all the netflix features.
 It has very basic level netflix features.
 
